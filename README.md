@@ -1,14 +1,14 @@
 ### Hello, All!  大傢好！ 👋
 
+I am Rafza Ray Firdaus 馮樂佳, an Automation Engineering student from Politeknik Manufaktur Bandung, familiar with C# and Python. I'm interested in building Smart Manufacturing implementation and optimizing the system with AI/ML.  
+
 <!--
 **rafzarf/rafzarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-I am Rafza Ray Firdaus 馮樂佳
 
-I am an Automation Engineering student, currently using C# to make API for Smart Manufacturing Implementation, and Python for AI/ML model development interchangably. 
 
 
 
