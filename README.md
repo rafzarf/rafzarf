@@ -1,6 +1,6 @@
 ### Hello, All!  大傢好！ 👋
 
-I am Rafza Ray Firdaus 馮樂佳, familiar with C# and Python. I'm interested in building Smart Manufacturing implementation and optimizing the system with AI/ML.  
+I am Rafza Ray Firdaus 馮樂佳, familiar with C# and Python. I'm interested in building Smart Manufacturing implementation and optimizing the system with AI/ML. Currently Learning Golang. 
 
 <!--
 **rafzarf/rafzarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
