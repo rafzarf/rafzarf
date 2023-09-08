@@ -1,8 +1,13 @@
 ### Hello, All!  大傢好！ 👋
 
-I am Rafza Ray Firdaus 馮樂佳, familiar with C# and Python. I'm interested in building Smart Manufacturing implementation and optimizing the system with AI/ML. Currently Learning Golang. 
+I am Rafza Ray Firdaus 馮樂佳, an undergraduate student from Bandung Polytechnic for Manufacturing majoring in Automation Engineering. 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafzarf&hide_progress=true)
+- 🔭 I’m currently working on Resful API Project with Go
+- 🌱 I’m currently learning Pytorch and Golang
+
+
+![Rafzarf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafzarf&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafzarfa&size_weight=0.5&count_weight=0.5)
 
 <!--
 **rafzarf/rafzarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
