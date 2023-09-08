@@ -10,7 +10,7 @@ I am Rafza Ray Firdaus 馮樂佳, an undergraduate student from Bandung Polytech
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafzarf&layout=compact&theme=radical)
 
 ### Connect with Me 
-<a href=”https://www.linkedin.com/in/rafzarf/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/rafzarf/main/images/linkedin.svg" alt=”rafzarf | LinkedIn” width=”21px”/></a>
+<a href=”https://www.linkedin.com/in/rafzarf/"><img align=”left” src=”https://raw.githubusercontent.com/rafzarf/rafzarf/main/images/linkedin.svg" alt=”rafzarf | LinkedIn” width=”21px”/></a>
 
 <!--
 **rafzarf/rafzarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
