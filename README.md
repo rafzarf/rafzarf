@@ -2,7 +2,7 @@
 Hello, All!  大傢好！ 👋
 </h3>
 
-I am Rafza Ray Firdaus 馮樂佳, an undergraduate student from Bandung Polytechnic for Manufacturing majoring in Automation Engineering. 
+I am Rafza Ray Firdaus 馮樂佳, an undergraduate student from Bandung Polytechnic for Manufacturing majoring in Automation Engineering. Interested in any project, especially related to IoT, Microcontroller, ML. 
 
 - 🔭 I’m currently working on Restful API Project with Go
 - 🌱 I’m currently learning Pytorch and Golang
