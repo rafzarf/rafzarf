@@ -10,6 +10,7 @@ I am Rafza Ray Firdaus 馮樂佳, an undergraduate student from Bandung Polytech
 ### 📈 GitHub Stats 
 ![Rafzarf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafzarf&show_icons=true&theme=radical)
 </br>
+![rafzarf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafzarf&theme=dracula&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafzarf&layout=compact&theme=radical)
 
 ### 🤝 Connect with Me 
