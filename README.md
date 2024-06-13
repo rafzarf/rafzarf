@@ -21,8 +21,9 @@ I am Rafza Ray Firdaus. Currently, I am interested in learning Data Engineering,
 <p align="left"> <a href="https://www.github.com/rafzarf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/rrayfirdauss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/rafzarf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafzarf&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="rafzarf's Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafzarf&theme=dracula&hide_border=true" alt="rafzarf's Streak" width="45%"/>
-</div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafzarf&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="rafzarf's Top Languages" width="45%"/>
+**My GitHub Stats**
+
+<a href="http://www.github.com/rafzarf"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafzarf&show_icons=true&include_all_commits=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&show_icons=true&count_private=true" /></a>
+
+<a href="https://github.com/rafzarf" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafzarf&layout=compact&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en&custom_title=Used%20Languages" alt="Top Languages" /></a>
+
