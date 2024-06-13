@@ -8,10 +8,9 @@ I am Rafza Ray Firdaus 馮樂佳, an undergraduate student from Bandung Polytech
 - 🌱 I’m currently learning Go, Rust
 
 ### 📈 GitHub Stats 
-![Rafzarf's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafzarf&show_icons=true&theme=radical)
-</br>
+![rafzarf's Stats](https://github-readme-stats.vercel.app/api?username=rafzarf&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 ![rafzarf's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rafzarf&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafzarf&layout=compact&theme=radical)
+![rafzarf's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafzarf&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ### 🤝 Connect with Me 
 <a href="https://www.linkedin.com/in/rafzarf/"><img align="left" src="https://raw.githubusercontent.com/rafzarf/rafzarf/main/images/linkedin.svg" alt="Rafza RF | LinkedIn" width="21px"/></a>
