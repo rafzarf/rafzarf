@@ -23,6 +23,6 @@ I am Rafza Ray Firdaus. Currently, I am interested in learning Data Engineering,
 ### Badges
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=rafzarf&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="rafzarf's Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafzarf&theme=dracula&hide_border=true" alt="rafzarf's Streak" width="45%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafzarf&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="rafzarf's Top Languages" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafzarf&theme=dracula&hide_border=true" alt="rafzarf's Streak" width="45%"/>
 </div>
