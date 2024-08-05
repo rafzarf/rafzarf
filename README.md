@@ -1,7 +1,6 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Hi. I am Rafza Ray Firdaus. Currently, I am interested in learning Data Engineering, AI/ML, IoT, and CPS integration. Besides that, I taught myself Rust and low-level programming.  
-* 🤝  I'm open to collaborating on any project related to my interests.
+Hi. I am Rafza Ray Firdaus. Currently, I am interested in Data and Software Engineering. 
 
 ### Current Stacks
 
